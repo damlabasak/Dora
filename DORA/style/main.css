@@ -50,3 +50,12 @@ body {
 .giris-icon {
     width: 20px;
 }
+
+.navigator {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 5px;
+    justify-content: center;
+}
