@@ -1,0 +1,52 @@
+body {
+    width: 100%;
+    padding: 0 150px;
+    color: black;
+}
+
+.wrapper {
+    width: 100%;
+}
+
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 150px;
+}
+
+.logo img {
+    width: 250px;
+}
+
+.search {
+    padding-top: 30px;
+    width: 480px;
+}
+
+.user-login {
+    padding-top: 30px;
+}
+
+.navbar-nav {
+    display: flex;
+    flex-direction: row !important;
+    flex-wrap: wrap;
+    width: 350px;
+    gap: 20px;
+}
+
+.navbar-nav li {
+    display: flex;
+    flex-direction: row !important;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.nav-link {
+    color: black !important;
+}
+
+.giris-icon {
+    width: 20px;
+}
