@@ -94,15 +94,24 @@ body {
     width: 100%;
 }
 
+.choice img:hover {
+    opacity: 0.4;
+}
+
 .banner {
     width: 100%;
     height: 100%;
-    margin-bottom: 1000px;
 }
 
 .banner img {
     width: 100%;
     height: 100%;
+}
+
+.kayan-yazi {
+    font-size: 30px;
+    padding-top: 5px;
+    background: #f9ff23a3;
 }
 
 .go-top-btn{
