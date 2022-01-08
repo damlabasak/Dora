@@ -12,7 +12,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     width: 100%;
-    gap: 150px;
+    gap: 140px;
 }
 
 .logo img {
@@ -52,10 +52,28 @@ body {
 }
 
 .navigator {
+    font-size: 18px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 40px;
+    justify-content: center;
+}
+
+.navigator2 {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     width: 100%;
     gap: 5px;
-    justify-content: center;
+}
+
+.choice {
+    width: 64px;
+}
+
+.choice img {
+    border-radius: 10px;
+    width: 100%;
 }
