@@ -12,11 +12,22 @@
 }
 
 .card-body .sepete-ekle-btn {
-    border: 1px solid #40c5c5;
+    border: 2px solid #e4ff00;
     border-radius: 6px;
     background: #40c5c5;
     padding: 4px 15px;
-    margin-right: 30%;
+    margin-right: 10%;
+}
+
+.card-body .beden {
+    float: right;
+    margin-top: -40px;
+    margin-right: 5px;
+}
+
+.card-body select {
+    padding: 4px;
+    width: 110%;
 }
 
 .card-body img {
