@@ -7,7 +7,7 @@ Bir e-ticaret sitesi tasarımıdır.
 
 # Kategori sayfası;
 
-![kategori1](https://r.resimlink.com/luQsn8.png)
+![kategori1](http://r.resimlink.com/luQsn8.png)
 
 
-![kategori2](https://r.resimlink.com/19SyQjY.png)
+![kategori2](http://r.resimlink.com/19SyQjY.png)
