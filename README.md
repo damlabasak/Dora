@@ -2,7 +2,7 @@
 Bir e-ticaret sitesi tasarımıdır.
 
 # Anasayfa;
-<img align="center" alt="img" src="[https://r.resimlink.com/s7IiG.png](https://r.resimlink.com/s7IiG.png)" />
+<img align="center" alt="img" src="https://r.resimlink.com/s7IiG.png" />
 
 
 # Kategori sayfası;
